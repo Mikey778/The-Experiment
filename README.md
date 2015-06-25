@@ -6,8 +6,8 @@ This project was developed for educational purposes if you have any questions ab
 Only the scripts have been uploaded to avoid copyright issues.
 
 ### Resources
-* I developed this game using the Unity3d engine. I found a useful tutorial which I reffered to 
+* I developed this game using the [Unity3d](http://unity3d.com) engine. I found a useful tutorial which I reffered to 
 for my developement. 
 * I utilized [Mixamo's](https://www.mixamo.com) animations/3d models for enemies and player.
-* The [environment](https://www.assetstore.unity3d.com/en/#!/content/22030) 3d models are from the Unity3d asset store
+* The [environment](https://www.assetstore.unity3d.com/en/#!/content/22030) 3d models are from the Unity3d asset store.
 
